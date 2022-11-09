@@ -14,7 +14,7 @@
 
 ## Statechart
 
-![image](https://user-images.githubusercontent.com/38339200/200930254-71ebe934-56cb-4d2d-b69b-295bb03b0354.png)
+![image](https://user-images.githubusercontent.com/38339200/200953595-b51d96b1-7dde-46b7-b863-99ab8723eeb5.png)
 
 ## Execução
 
